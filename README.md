@@ -1,1 +1,1 @@
- https://calculatorcalc.herokuapp.com/
+ [![Build Status](https://travis-ci.com/Pavel-Gorokhovskii/herokku.svg?branch=master)](https://travis-ci.com/Pavel-Gorokhovskii/herokku)https://calculatorcalc.herokuapp.com/
